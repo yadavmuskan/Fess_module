@@ -1,0 +1,81 @@
+[
+    {
+        "title": "Dashboard",
+        "icon": "bi-gear-fill",
+        "path": "/dashboard",
+        "childrens": [
+          
+        ]
+    },
+    {
+        "title": "Acadmic",
+        "icon": "bi-info-circle-fill",
+        "path": "/dash",
+        "childrens": [
+            {
+                "title": "Login",
+                "path": "/login"
+            },
+            {
+                "title": "Register",
+                "path": "/register"
+            },
+            {
+                "title": "Forgot Password",
+                "path": "/forgot-password"
+            },
+            {
+                "title": "Reset Password",
+                "path": "/reset-password"
+            }
+        ]
+    },
+    {
+        "title": "Management",
+        "icon": "bi-person-fill",
+        "path": "/dash",
+        "childrens": [
+            {
+                "title": "Profile",
+                "path": "/profile"
+            },
+            
+                  
+            {
+                "title": "Logout",
+                "path": "/logout"
+            }
+        ]
+    },
+    {
+        "title": "Fees ",
+        "icon": "bi-view-list" ,
+        "path": "fees",
+        "childrens": [
+            {
+                "title": "Fees Status",
+                "path": "/fees"
+            },
+            {
+                "title": "Student informtion",
+                "path": "studentinfo"   
+            },
+            {
+                "title": "View recipt",
+                "path": "/recipt"   
+            },
+            {
+                "title": "Generate recipt",
+                "path": "/recipt"   
+            },
+            {
+                "title": "Payment history",
+                "path": "/history"   
+            },
+            {
+                "title": "Online payment",
+                "path": "/payment"   
+            }
+        ]
+    }
+]

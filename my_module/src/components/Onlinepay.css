@@ -1,0 +1,142 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+    position: relative;
+    border: 1px soild black ;
+    bottom: 20px;
+   }
+  .h7{
+    position: relative;
+    top: 10px;
+    right:20px;
+  }
+  .bigbox{
+    border-width: thin;
+    border-style: solid;
+    border-radius: 3px;
+    width: 45%;
+    height: 330px;
+    border: 1px solid black;
+    position: relative;
+    left: 500px;
+    top: 90px;
+    }
+  .box2{
+    border-width: thin;
+    border-style: solid;
+    width: 650px;
+    height: 250px;
+    position: relative;
+    left:10px;
+    margin:1% 1% 1% 4%;
+    
+  }
+  #a{
+     text-align: center;
+  }
+  
+  .box3{
+    border-bottom:thin;
+    width: 648.5px;
+    height: 50px;
+    margin-left: -0.5px;
+    background-color:#9CB2CE;
+  } 
+  h7{
+    margin-left: 5%;
+    font-weight: 400;
+    position: relative;
+    
+  }
+  .tution{
+    position: relative;
+    top: 10px;
+  }
+  #a{
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  position: relative;
+  right: 30px;
+  color: #041e4d;
+  }
+  h8{
+  padding-left: 2%;
+  }
+  .input{
+    width: 25%;
+    height: 50%;
+    margin-left:14%;  
+    position: relative;
+    top: 10px;  
+  }
+  .BCA{
+    margin-left:6%;  
+    position: relative;
+    top: 10px;
+  }
+  .money{
+    margin-left:10%; 
+    position: relative;
+    top: 10px;
+  }
+  .data{
+    margin-top: 2%;
+    position: relative;
+    top: 10px;
+  }
+  .totald{
+    margin-top: 8%;
+  }
+  .total{
+    margin-top: 10%;
+    margin-left: 40%;
+    position: relative;
+    top: 10px;
+    right: 40px;
+    font-size: 25px;
+    color: black;
+
+  }
+  .totalrep{
+    margin-left: 10%;
+    position: relative;
+    top: 20px;
+  }
+  .onlinepaybut{
+    margin-left: 64%;
+    background-color: #041e4d;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    width: 150px;
+    height:45px ;
+    border-radius: none;
+    text-decoration: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 60px;
+   
+  }
+  .backbut{
+    margin-left: 64%;
+    background-color: #041e4d;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 16px;
+    width: 150px;
+    height:50px ;
+    border-radius: none;
+    text-decoration: none;
+    cursor: pointer;
+    position: relative;
+    bottom: 80px;
+    right: 55%;
+  }
+  
